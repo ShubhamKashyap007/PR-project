@@ -43,6 +43,6 @@ result\
 ```
 
 # Citation
-X. Gong, W. Chen and J. Chen, "A Low-Rank Tensor Dictionary Learning Method for Hyperspectral Image Denoising," in IEEE Transactions on Signal Processing, vol. 68, pp. 1168-1180, 2020, doi: 10.1109/TSP.2020.2971441.
+Pattern Recognition Project: Saish Kajrolkar, Anand Kumar and Shubham Kashyap, M.Tech CSP IIT Indore. Original work on it is published by:- X. Gong, W. Chen and J. Chen, "A Low-Rank Tensor Dictionary Learning Method for Hyperspectral Image Denoising," in IEEE Transactions on Signal Processing, vol. 68, pp. 1168-1180, 2020, doi: 10.1109/TSP.2020.2971441.
 
-We would like to thank those researchers for making their codes and datasets publicly available. If you have any question, please feel free to contact me via: xiaogong@bjtu.edu.cn
+We would like to thank those researchers for making their codes and datasets publicly available. Also, it is to be noted that the credit to this work belongs to the original authors and we have used it only for the completion of our course mini project.
